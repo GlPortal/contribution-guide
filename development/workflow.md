@@ -1,7 +1,7 @@
 # Workflow
 ## Issue
 - Find or create a github issue you want to work on
-- Split the issue up if needed. Anything bigger than 2 weeks is way to big
+- Split the issue up if needed. Anything bigger than 2 weeks is way too big
 - It will be beneficial to refine the issue with the team before you pull it to *in progress*
 ## Work
 - Create a new branch that has the issue id as the name
