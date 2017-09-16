@@ -4,9 +4,9 @@
 - Split the issue up if needed. Anything bigger than 2 weeks is way too big
 - It will be beneficial to refine the issue with the team before you pull it to *in progress*
 ## Work
-- Create a new branch that has the issue id as the name
+- Create a new branch that has the issue id at the beginning of its name, e.g. `485-gl-resources-leak`
 - Create new tests where it applies
-- Create test maps where it applies
+- Create or improve existing test maps where it applies
 - Create your changes on the branch
 - Rebase with master if needed (don't merge master into your branch)
 ## Test
