@@ -1,7 +1,7 @@
-# Getting Started
+# Compile
 Make sure you can compile and run GlPortal using the COMPILE.md in the repository.
 
-## Finding a first task
+# Find a first task
 You can do either of these
 - Check the bug tracker on github for Radix and GlPortal and see if there are simple tasks in there
 - Refine an existing issue
