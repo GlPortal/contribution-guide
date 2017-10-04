@@ -1,5 +1,6 @@
 # Compile
-Make sure you can compile and run GlPortal using the COMPILE.md in the repository.
+- Make sure you can compile a basic C++ hello world example
+- Make sure you can compile and run GlPortal using the instructions in COMPILE.md in the repository.
 
 # Find a first task
 You can do either of these
