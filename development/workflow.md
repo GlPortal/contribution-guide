@@ -16,8 +16,8 @@
 ## Finishing
 - Merge your branch into master
 - Delete your branch
-# Don't do
-- Forget to reference the issue in the commit
-- Work on more than one github issue in one branch at once or do more than what the issue calls for.
-- Merge master back into your branch. Use rebase.
-- Work on Epics (anything above 2 weeks) but split them up into smaller tasks
+# Things to avoid
+- Forgeting to reference the issue in the commit
+- Working on more than one github issue in one branch at once or do more than what the issue calls for.
+- Merging master back into your branch. Use rebase.
+- Working on Epics (anything above 2 weeks). Split them up into smaller tasks instead.
