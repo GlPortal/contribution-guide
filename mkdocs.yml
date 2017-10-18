@@ -1,5 +1,6 @@
 site_name: Radix Contribution Guide
 pages:
+- 'index.md'
 - Development:
     - 'development/getting-started.md'
     - 'development/workflow.md'
