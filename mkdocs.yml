@@ -1,7 +1,9 @@
 site_name: GlPortal Contribution Guide
 pages:
 - 'index.md'
-- 'development/getting-started.md'
-- 'development/workflow.md'
-- 'art/graphics.md'
-- 'art/music.md'
+- Development:
+    - 'development/getting-started.md'
+    - 'development/workflow.md'
+- Art:
+    - 'art/graphics.md'
+    - 'art/music.md'
