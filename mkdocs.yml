@@ -4,6 +4,7 @@ pages:
 - Development:
     - 'development/getting-started.md'
     - 'development/workflow.md'
+    - 'development/team.md'
 - Art:
     - 'art/graphics.md'
     - 'art/music.md'
