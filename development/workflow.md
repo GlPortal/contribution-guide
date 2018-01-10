@@ -13,6 +13,10 @@
 - Check if all the tests pass
 - Create a PR and ask any or all members of technical-officers-engine to review the PR
 - Wait for your team mates to sign off on the PR
+## Quality Control
+- Make a code review
+- Make sure all the tests pass and that the game does not quit with a segfault or error
+- Play the game and check for errors
 ## Finishing
 - Merge your branch into master
 - Delete your branch
