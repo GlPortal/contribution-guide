@@ -17,6 +17,7 @@ If you are a push developer you should be able to push your radix changes:
 - Push to whatever branch you want to
 
 When you want GlPortal to use that new Radix version inside the glportal directory just type
+
  ```
 git add external/RadixEngine
 git commit -m "Update Radix"
