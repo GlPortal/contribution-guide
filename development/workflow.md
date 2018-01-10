@@ -9,6 +9,20 @@
 - Create or improve existing test maps where it applies
 - Create your changes on the branch
 - Rebase with master if needed (don't merge master into your branch)
+### Engine Changes
+If you are a push developer you should be able to push your radix changes:
+- Change dir to radix: ```cd external/RadixEngine```
+- Git add changes
+- Commit changes ```git commit -m "Your commit message"```
+- Push to whatever branch you want to
+
+When you want GlPortal to use that new Radix version inside the glportal directory just type
+ ```
+git add external/RadixEngine
+git commit -m "Update Radix"
+git push origin herebethenameofyourbranch
+```
+  
 ## Testing
 - Check if all the tests pass
 - Create a PR and ask any or all members of technical-officers-engine to review the PR
